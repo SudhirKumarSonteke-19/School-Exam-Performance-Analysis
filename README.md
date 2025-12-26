@@ -24,3 +24,7 @@ It identifies strengths and weaknesses and visualizes insights using Python libr
 
 ## ▶️ How to Run
 1. Install dependencies:
+   pip install -r requirements.txt
+3. Run the script:
+   python analysis.py
+
